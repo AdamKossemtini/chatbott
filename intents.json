@@ -1,7 +1,7 @@
 {"intents": [
         {"tag": "greeting",
          "patterns": ["Hi","cc","bonjour", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
-         "responses": ["Hello!", "marhba", "tfathal 5ouya "],
+         "responses": ["Hello!"],
          "context_set": ""
         },
         {"tag": "goodbye",
@@ -21,7 +21,7 @@
         },
         {"tag": "shop",
          "patterns": ["Id like to buy something", "whats on the menu", "what do you reccommend?", "could i get something to eat"],
-         "responses": ["kol chay nbi3ouh!", "enty chnou chehi??"],
+         "responses": ["welcome"],
          "context_set": ""
         },
 
